@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Mine.xsl"?>
+<Career_Cynosure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="Mine.xsd">
+	
+	<Members>
+		<SNO>1</SNO>
+	    <Course_field>Sciences</Course_field>
+		<Name>Ms. Anjana Richards </Name>
+		<Gender>Female</Gender>
+		<Age>38</Age>
+		<Email_ID>ajrichards@gmail.com</Email_ID>
+		<Mobile>9324509867</Mobile>
+	</Members>
+	
+	<Members>
+		<SNO>2</SNO>
+		<Course_field>Medical Sciences</Course_field>
+		<Name>Dr. Ajay Tripathi</Name>
+		<Gender>Male</Gender>
+		<Age>42</Age>
+		<Email_ID>tripathy@gmail.com</Email_ID>
+		<Mobile>6789098754</Mobile>
+	</Members>
+	
+	<Members>
+		<SNO>3</SNO>
+		<Course_field>BioTech</Course_field>
+		<Name>Ms. Nisha Nayak</Name>
+		<Gender>Female</Gender>
+		<Age>28</Age>
+		<Email_ID>nishK402@gmail.com</Email_ID>
+		<Mobile>7861209834</Mobile>
+	</Members>
+	
+	<Members>
+		<SNO>4</SNO>
+		<Course_field>Applied Sciences</Course_field>
+		<Name>Ms. Sangita Soloman</Name>
+		<Gender>Female</Gender>
+		<Age>42</Age>
+		<Email_ID>soloman_11@gmail.com</Email_ID>
+		<Mobile>90087001237</Mobile>
+	</Members>
+	
+	<Members>
+		<SNO>5</SNO>
+		<Course_field>Financial Economy</Course_field>
+		<Name>Mr. CM Bansal</Name>
+		<Gender>Male</Gender>
+		<Age>55</Age>
+		<Email_ID>bansal_cm@gmail.com</Email_ID>
+		<Mobile>9908670031</Mobile>
+	</Members>
+
+	
+</Career_Cynosure>
